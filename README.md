@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ML using JS<br>👯 I’m looking to collaborate on online projects<br>🌱 I’m currently learning Tensorflow JS
+🔭 I’m currently working on ML <br>👯 I’m looking to collaborate on online projects<br>🌱 I’m currently learning Tensorflow JS
 
 
 ## 🌐 Socials:
